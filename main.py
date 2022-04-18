@@ -10,10 +10,10 @@ def pairing(n1, n2):
         return True
     elif n1 == "U" and n2 == "A":
         return True
-    elif n1 == "U" and n2 == "G":
-        return True
-    elif n1 == "G" and n2 == "U":
-        return True
+#     elif n1 == "U" and n2 == "G":
+#         return True
+#     elif n1 == "G" and n2 == "U":
+#         return True
     return False
 
 
